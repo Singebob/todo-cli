@@ -1,0 +1,12 @@
+# Binary
+todo-cli
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
